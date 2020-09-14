@@ -7,3 +7,6 @@
 .post-date{
   color: gray;
 }
+div[data-checked="true"] {
+  background: #585555;
+}
